@@ -70,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Next: https://fullstackopen.com/en/part1/component_state_event_handlers#passing-state-to-child-components
+https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#update-of-the-state-is-asynchronous
