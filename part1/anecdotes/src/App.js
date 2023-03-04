@@ -57,7 +57,7 @@ const App = () => {
     })
     return maxIndex
   }
-  
+
   const mostVoteIdx = getIdxWithMostVotes()
 
   return (
